@@ -1,0 +1,2052 @@
+{
+    "0110": {
+        "Primary": "HOMICIDE",
+        "Secondary": "FIRST DEGREE MURDER",
+        "Index": "I"
+    },
+    "0130": {
+        "Primary": "HOMICIDE",
+        "Secondary": "SECOND DEGREE MURDER",
+        "Index": "I"
+    },
+    "0141": {
+        "Primary": "HOMICIDE",
+        "Secondary": "INVOLUNTARY MANSLAUGHTER",
+        "Index": "N"
+    },
+    "0142": {
+        "Primary": "HOMICIDE",
+        "Secondary": "RECKLESS HOMICIDE",
+        "Index": "N"
+    },
+    "0261": {
+        "Primary": "CRIMINAL SEXUAL ASSAULT",
+        "Secondary": "AGGRAVATED - HANDGUN",
+        "Index": "I"
+    },
+    "0262": {
+        "Primary": "CRIMINAL SEXUAL ASSAULT",
+        "Secondary": "AGGRAVATED - OTHER FIREARM",
+        "Index": "I"
+    },
+    "0263": {
+        "Primary": "CRIMINAL SEXUAL ASSAULT",
+        "Secondary": "AGGRAVATED - KNIFE / CUTTING INSTRUMENT",
+        "Index": "I"
+    },
+    "0264": {
+        "Primary": "CRIMINAL SEXUAL ASSAULT",
+        "Secondary": "AGGRAVATED - OTHER DANGEROUS WEAPON",
+        "Index": "I"
+    },
+    "0265": {
+        "Primary": "CRIMINAL SEXUAL ASSAULT",
+        "Secondary": "AGGRAVATED - OTHER",
+        "Index": "I"
+    },
+    "0266": {
+        "Primary": "CRIMINAL SEXUAL ASSAULT",
+        "Secondary": "PREDATORY",
+        "Index": "I"
+    },
+    "0271": {
+        "Primary": "CRIMINAL SEXUAL ASSAULT",
+        "Secondary": "ATTEMPT AGGRAVATED - HANDGUN",
+        "Index": "I"
+    },
+    "0272": {
+        "Primary": "CRIMINAL SEXUAL ASSAULT",
+        "Secondary": "ATTEMPT AGGRAVATED - OTHER FIREARM",
+        "Index": "I"
+    },
+    "0273": {
+        "Primary": "CRIMINAL SEXUAL ASSAULT",
+        "Secondary": "ATTEMPT AGGRAVATED - KNIFE / CUTTING INSTRUMENT",
+        "Index": "I"
+    },
+    "0274": {
+        "Primary": "CRIMINAL SEXUAL ASSAULT",
+        "Secondary": "ATTEMPT AGGRAVATED - OTHER DANGEROUS WEAPON",
+        "Index": "I"
+    },
+    "0275": {
+        "Primary": "CRIMINAL SEXUAL ASSAULT",
+        "Secondary": "ATTEMPT AGGRAVATED - OTHER",
+        "Index": "I"
+    },
+    "0281": {
+        "Primary": "CRIMINAL SEXUAL ASSAULT",
+        "Secondary": "NON-AGGRAVATED",
+        "Index": "I"
+    },
+    "0291": {
+        "Primary": "CRIMINAL SEXUAL ASSAULT",
+        "Secondary": "ATTEMPT NON-AGGRAVATED",
+        "Index": "I"
+    },
+    "0312": {
+        "Primary": "ROBBERY",
+        "Secondary": "ARMED - KNIFE / CUTTING INSTRUMENT",
+        "Index": "I"
+    },
+    "0313": {
+        "Primary": "ROBBERY",
+        "Secondary": "ARMED - OTHER DANGEROUS WEAPON",
+        "Index": "I"
+    },
+    "031A": {
+        "Primary": "ROBBERY",
+        "Secondary": "ARMED - HANDGUN",
+        "Index": "I"
+    },
+    "031B": {
+        "Primary": "ROBBERY",
+        "Secondary": "ARMED - OTHER FIREARM",
+        "Index": "I"
+    },
+    "0320": {
+        "Primary": "ROBBERY",
+        "Secondary": "STRONG ARM - NO WEAPON",
+        "Index": "I"
+    },
+    "0325": {
+        "Primary": "ROBBERY",
+        "Secondary": "VEHICULAR HIJACKING",
+        "Index": "I"
+    },
+    "0326": {
+        "Primary": "ROBBERY",
+        "Secondary": "AGGRAVATED VEHICULAR HIJACKING",
+        "Index": "I"
+    },
+    "0330": {
+        "Primary": "ROBBERY",
+        "Secondary": "AGGRAVATED",
+        "Index": "I"
+    },
+    "0331": {
+        "Primary": "ROBBERY",
+        "Secondary": "ATTEMPT AGGRAVATED",
+        "Index": "I"
+    },
+    "0334": {
+        "Primary": "ROBBERY",
+        "Secondary": "ATTEMPT ARMED - KNIFE / CUTTING INSTRUMENT",
+        "Index": "I"
+    },
+    "0337": {
+        "Primary": "ROBBERY",
+        "Secondary": "ATTEMPT ARMED - OTHER DANGEROUS WEAPON",
+        "Index": "I"
+    },
+    "033A": {
+        "Primary": "ROBBERY",
+        "Secondary": "ATTEMPT ARMED - HANDGUN",
+        "Index": "I"
+    },
+    "033B": {
+        "Primary": "ROBBERY",
+        "Secondary": "ATTEMPT ARMED - OTHER FIREARM",
+        "Index": "I"
+    },
+    "0340": {
+        "Primary": "ROBBERY",
+        "Secondary": "ATTEMPT STRONG ARM - NO WEAPON",
+        "Index": "I"
+    },
+    "041A": {
+        "Primary": "BATTERY",
+        "Secondary": "AGGRAVATED - HANDGUN",
+        "Index": "I"
+    },
+    "041B": {
+        "Primary": "BATTERY",
+        "Secondary": "AGGRAVATED - OTHER FIREARM",
+        "Index": "I"
+    },
+    "0420": {
+        "Primary": "BATTERY",
+        "Secondary": "AGGRAVATED - KNIFE / CUTTING INSTRUMENT",
+        "Index": "I"
+    },
+    "0430": {
+        "Primary": "BATTERY",
+        "Secondary": "AGGRAVATED - OTHER DANGEROUS WEAPON",
+        "Index": "I"
+    },
+    "0440": {
+        "Primary": "BATTERY",
+        "Secondary": "AGGRAVATED - HANDS, FISTS, FEET, NO / MINOR INJURY",
+        "Index": "N"
+    },
+    "0450": {
+        "Primary": "BATTERY",
+        "Secondary": "AGGRAVATED POLICE OFFICER - HANDGUN",
+        "Index": "I"
+    },
+    "0451": {
+        "Primary": "BATTERY",
+        "Secondary": "AGGRAVATED POLICE OFFICER - OTHER FIREARM",
+        "Index": "I"
+    },
+    "0452": {
+        "Primary": "BATTERY",
+        "Secondary": "AGGRAVATED POLICE OFFICER - KNIFE / CUTTING INSTRUMENT",
+        "Index": "I"
+    },
+    "0453": {
+        "Primary": "BATTERY",
+        "Secondary": "AGGRAVATED POLICE OFFICER - OTHER DANGEROUS WEAPON",
+        "Index": "I"
+    },
+    "0454": {
+        "Primary": "BATTERY",
+        "Secondary": "AGGRAVATED P.O. - HANDS, FISTS, FEET, NO / MINOR INJURY",
+        "Index": "N"
+    },
+    "0460": {
+        "Primary": "BATTERY",
+        "Secondary": "SIMPLE",
+        "Index": "N"
+    },
+    "0461": {
+        "Primary": "BATTERY",
+        "Secondary": "AGGRAVATED P.O. - HANDS, FISTS, FEET, SERIOUS INJURY",
+        "Index": "I"
+    },
+    "0462": {
+        "Primary": "BATTERY",
+        "Secondary": "AGG. PROTECTED EMPLOYEE - HANDS, FISTS, FEET, SERIOUS INJURY",
+        "Index": "I"
+    },
+    "0470": {
+        "Primary": "PUBLIC PEACE VIOLATION",
+        "Secondary": "RECKLESS CONDUCT",
+        "Index": "N"
+    },
+    "0475": {
+        "Primary": "BATTERY",
+        "Secondary": "OF AN UNBORN CHILD",
+        "Index": "N"
+    },
+    "0479": {
+        "Primary": "BATTERY",
+        "Secondary": "AGGRAVATED - HANDS, FISTS, FEET, SERIOUS INJURY",
+        "Index": "I"
+    },
+    "0480": {
+        "Primary": "BATTERY",
+        "Secondary": "AGGRAVATED PROTECTED EMPLOYEE - HANDGUN",
+        "Index": "I"
+    },
+    "0481": {
+        "Primary": "BATTERY",
+        "Secondary": "AGGRAVATED PROTECTED EMPLOYEE - OTHER FIREARM",
+        "Index": "I"
+    },
+    "0482": {
+        "Primary": "BATTERY",
+        "Secondary": "AGGRAVATED PROTECTED EMPLOYEE - KNIFE / CUTTING INSTRUMENT",
+        "Index": "I"
+    },
+    "0483": {
+        "Primary": "BATTERY",
+        "Secondary": "AGGRAVATED PROTECTED EMPLOYEE - OTHER DANGEROUS WEAPON",
+        "Index": "I"
+    },
+    "0484": {
+        "Primary": "BATTERY",
+        "Secondary": "PROTECTED EMPLOYEE - HANDS, FISTS, FEET, NO / MINOR INJURY",
+        "Index": "N"
+    },
+    "0485": {
+        "Primary": "BATTERY",
+        "Secondary": "AGGRAVATED OF A CHILD",
+        "Index": "I"
+    },
+    "0486": {
+        "Primary": "BATTERY",
+        "Secondary": "DOMESTIC BATTERY SIMPLE",
+        "Index": "N"
+    },
+    "0487": {
+        "Primary": "BATTERY",
+        "Secondary": "AGGRAVATED OF AN UNBORN CHILD",
+        "Index": "I"
+    },
+    "0488": {
+        "Primary": "BATTERY",
+        "Secondary": "AGGRAVATED DOMESTIC BATTERY - HANDGUN",
+        "Index": "I"
+    },
+    "0489": {
+        "Primary": "BATTERY",
+        "Secondary": "AGGRAVATED DOMESTIC BATTERY - OTHER FIREARM",
+        "Index": "I"
+    },
+    "0490": {
+        "Primary": "RITUALISM",
+        "Secondary": "AGGRAVATED RITUAL MUTILATION - HANDGUN",
+        "Index": "I"
+    },
+    "0491": {
+        "Primary": "RITUALISM",
+        "Secondary": "AGGRAVATED RITUAL MUTILATION - OTHER FIREARM",
+        "Index": "I"
+    },
+    "0492": {
+        "Primary": "RITUALISM",
+        "Secondary": "AGGRAVATED RITUAL MUTILATION - KNIFE / CUTTING INSTRUMENT",
+        "Index": "I"
+    },
+    "0493": {
+        "Primary": "RITUALISM",
+        "Secondary": "AGGRAVATED RITUAL MUTILATION - OTHER DANGEROUS WEAPON",
+        "Index": "I"
+    },
+    "0494": {
+        "Primary": "RITUALISM",
+        "Secondary": "AGGRAVATED RITUAL MUTILATION -HANDS / FEET NO / MINOR INJURY",
+        "Index": "N"
+    },
+    "0495": {
+        "Primary": "BATTERY",
+        "Secondary": "AGGRAVATED OF A SENIOR CITIZEN",
+        "Index": "I"
+    },
+    "0496": {
+        "Primary": "BATTERY",
+        "Secondary": "AGGRAVATED DOMESTIC BATTERY - KNIFE / CUTTING INSTRUMENT",
+        "Index": "I"
+    },
+    "0497": {
+        "Primary": "BATTERY",
+        "Secondary": "AGGRAVATED DOMESTIC BATTERY - OTHER DANGEROUS WEAPON",
+        "Index": "I"
+    },
+    "0498": {
+        "Primary": "BATTERY",
+        "Secondary": "AGG. DOMESTIC BATTERY - HANDS, FISTS, FEET, SERIOUS INJURY",
+        "Index": "I"
+    },
+    "0499": {
+        "Primary": "BATTERY",
+        "Secondary": "AGGRAVATED DOMESTIC BATTERY",
+        "Index": "I"
+    },
+    "0510": {
+        "Primary": "RITUALISM",
+        "Secondary": "AGG. RITUAL MUTILATION - HANDS, FISTS, FEET, SERIOUS INJURY",
+        "Index": "I"
+    },
+    "051A": {
+        "Primary": "ASSAULT",
+        "Secondary": "AGGRAVATED - HANDGUN",
+        "Index": "I"
+    },
+    "051B": {
+        "Primary": "ASSAULT",
+        "Secondary": "AGGRAVATED - OTHER FIREARM",
+        "Index": "I"
+    },
+    "0520": {
+        "Primary": "ASSAULT",
+        "Secondary": "AGGRAVATED - KNIFE / CUTTING INSTRUMENT",
+        "Index": "I"
+    },
+    "0530": {
+        "Primary": "ASSAULT",
+        "Secondary": "AGGRAVATED - OTHER DANGEROUS WEAPON",
+        "Index": "I"
+    },
+    "0545": {
+        "Primary": "ASSAULT",
+        "Secondary": "PROTECTED EMPLOYEE - HANDS, FISTS, FEET, NO / MINOR INJURY",
+        "Index": "N"
+    },
+    "0550": {
+        "Primary": "ASSAULT",
+        "Secondary": "AGGRAVATED POLICE OFFICER - HANDGUN",
+        "Index": "I"
+    },
+    "0551": {
+        "Primary": "ASSAULT",
+        "Secondary": "AGGRAVATED POLICE OFFICER - OTHER FIREARM",
+        "Index": "I"
+    },
+    "0552": {
+        "Primary": "ASSAULT",
+        "Secondary": "AGGRAVATED POLICE OFFICER - KNIFE / CUTTING INSTRUMENT",
+        "Index": "I"
+    },
+    "0553": {
+        "Primary": "ASSAULT",
+        "Secondary": "AGGRAVATED POLICE OFFICER - OTHER DANGEROUS WEAPON",
+        "Index": "I"
+    },
+    "0554": {
+        "Primary": "ASSAULT",
+        "Secondary": "AGGRAVATED POLICE OFFICER - HANDS, FISTS, FEET, NO INJURY",
+        "Index": "N"
+    },
+    "0555": {
+        "Primary": "ASSAULT",
+        "Secondary": "AGGRAVATED PROTECTED EMPLOYEE - HANDGUN",
+        "Index": "I"
+    },
+    "0556": {
+        "Primary": "ASSAULT",
+        "Secondary": "AGGRAVATED PROTECTED EMPLOYEE - OTHER FIREARM",
+        "Index": "I"
+    },
+    "0557": {
+        "Primary": "ASSAULT",
+        "Secondary": "AGGRAVATED PROTECTED EMPLOYEE - KNIFE / CUTTING INSTRUMENT",
+        "Index": "I"
+    },
+    "0558": {
+        "Primary": "ASSAULT",
+        "Secondary": "AGGRAVATED PROTECTED EMPLOYEE - OTHER DANGEROUS WEAPON",
+        "Index": "I"
+    },
+    "0560": {
+        "Primary": "ASSAULT",
+        "Secondary": "SIMPLE",
+        "Index": "N"
+    },
+    "0580": {
+        "Primary": "STALKING",
+        "Secondary": "SIMPLE",
+        "Index": "N"
+    },
+    "0581": {
+        "Primary": "STALKING",
+        "Secondary": "AGGRAVATED",
+        "Index": "N"
+    },
+    "0583": {
+        "Primary": "STALKING",
+        "Secondary": "CYBERSTALKING",
+        "Index": "N"
+    },
+    "0584": {
+        "Primary": "STALKING",
+        "Secondary": "VIOLATION OF STALKING NO CONTACT ORDER",
+        "Index": "N"
+    },
+    "0610": {
+        "Primary": "BURGLARY",
+        "Secondary": "FORCIBLE ENTRY",
+        "Index": "I"
+    },
+    "0620": {
+        "Primary": "BURGLARY",
+        "Secondary": "UNLAWFUL ENTRY",
+        "Index": "I"
+    },
+    "0630": {
+        "Primary": "BURGLARY",
+        "Secondary": "ATTEMPT FORCIBLE ENTRY",
+        "Index": "I"
+    },
+    "0650": {
+        "Primary": "BURGLARY",
+        "Secondary": "HOME INVASION",
+        "Index": "I"
+    },
+    "0810": {
+        "Primary": "THEFT",
+        "Secondary": "OVER $500",
+        "Index": "I"
+    },
+    "0820": {
+        "Primary": "THEFT",
+        "Secondary": "$500 AND UNDER",
+        "Index": "I"
+    },
+    "0830": {
+        "Primary": "THEFT",
+        "Secondary": "THEFT RETAIL",
+        "Index": "I"
+    },
+    "0840": {
+        "Primary": "THEFT",
+        "Secondary": "FINANCIAL IDENTITY THEFT: OVER $300",
+        "Index": "I"
+    },
+    "0841": {
+        "Primary": "THEFT",
+        "Secondary": "FINANCIAL IDENTITY THEFT: $300 & UNDER",
+        "Index": "I"
+    },
+    "0842": {
+        "Primary": "THEFT",
+        "Secondary": "AGGRAVATED: FINANCIAL IDENTITY THEFT",
+        "Index": "I"
+    },
+    "0843": {
+        "Primary": "THEFT",
+        "Secondary": "ATTEMPT FINANCIAL IDENTITY THEFT",
+        "Index": "I"
+    },
+    "0850": {
+        "Primary": "THEFT",
+        "Secondary": "ATTEMPT THEFT",
+        "Index": "I"
+    },
+    "0860": {
+        "Primary": "THEFT",
+        "Secondary": "RETAIL THEFT",
+        "Index": "I"
+    },
+    "0865": {
+        "Primary": "THEFT",
+        "Secondary": "DELIVERY CONTAINER THEFT",
+        "Index": "I"
+    },
+    "0870": {
+        "Primary": "THEFT",
+        "Secondary": "POCKET-PICKING",
+        "Index": "I"
+    },
+    "0880": {
+        "Primary": "THEFT",
+        "Secondary": "PURSE-SNATCHING",
+        "Index": "I"
+    },
+    "0890": {
+        "Primary": "THEFT",
+        "Secondary": "FROM BUILDING",
+        "Index": "I"
+    },
+    "0895": {
+        "Primary": "THEFT",
+        "Secondary": "FROM COIN-OPERATED MACHINE OR DEVICE",
+        "Index": "I"
+    },
+    "0910": {
+        "Primary": "MOTOR VEHICLE THEFT",
+        "Secondary": "AUTOMOBILE",
+        "Index": "I"
+    },
+    "0915": {
+        "Primary": "MOTOR VEHICLE THEFT",
+        "Secondary": "TRUCK, BUS, MOTOR HOME",
+        "Index": "I"
+    },
+    "0917": {
+        "Primary": "MOTOR VEHICLE THEFT",
+        "Secondary": "CYCLE, SCOOTER, BIKE WITH VIN",
+        "Index": "I"
+    },
+    "0918": {
+        "Primary": "MOTOR VEHICLE THEFT",
+        "Secondary": "CYCLE, SCOOTER, BIKE NO VIN",
+        "Index": "I"
+    },
+    "0920": {
+        "Primary": "MOTOR VEHICLE THEFT",
+        "Secondary": "ATTEMPT - AUTOMOBILE",
+        "Index": "I"
+    },
+    "0925": {
+        "Primary": "MOTOR VEHICLE THEFT",
+        "Secondary": "ATTEMPT - TRUCK, BUS, MOTOR HOME",
+        "Index": "I"
+    },
+    "0927": {
+        "Primary": "MOTOR VEHICLE THEFT",
+        "Secondary": "ATTEMPT - CYCLE, SCOOTER, BIKE WITH VIN",
+        "Index": "I"
+    },
+    "0928": {
+        "Primary": "MOTOR VEHICLE THEFT",
+        "Secondary": "ATTEMPT - CYCLE, SCOOTER, BIKE NO VIN",
+        "Index": "I"
+    },
+    "0930": {
+        "Primary": "MOTOR VEHICLE THEFT",
+        "Secondary": "THEFT / RECOVERY - AUTOMOBILE",
+        "Index": "I"
+    },
+    "0935": {
+        "Primary": "MOTOR VEHICLE THEFT",
+        "Secondary": "THEFT / RECOVERY - TRUCK, BUS, MOBILE HOME",
+        "Index": "I"
+    },
+    "0937": {
+        "Primary": "MOTOR VEHICLE THEFT",
+        "Secondary": "THEFT / RECOVERY - CYCLE, SCOOTER, BIKE WITH VIN",
+        "Index": "I"
+    },
+    "0938": {
+        "Primary": "MOTOR VEHICLE THEFT",
+        "Secondary": "THEFT / RECOVERY - CYCLE, SCOOTER, BIKE NO VIN",
+        "Index": "I"
+    },
+    "1010": {
+        "Primary": "ARSON",
+        "Secondary": "BY EXPLOSIVE",
+        "Index": "I"
+    },
+    "1020": {
+        "Primary": "ARSON",
+        "Secondary": "BY FIRE",
+        "Index": "I"
+    },
+    "1025": {
+        "Primary": "ARSON",
+        "Secondary": "AGGRAVATED",
+        "Index": "I"
+    },
+    "1030": {
+        "Primary": "ARSON",
+        "Secondary": "POSSESSION - EXPLOSIVE / INCENDIARY DEVICE",
+        "Index": "N"
+    },
+    "1035": {
+        "Primary": "ARSON",
+        "Secondary": "POSSESSION - CHEMICAL / DRY-ICE DEVICE",
+        "Index": "N"
+    },
+    "1050": {
+        "Primary": "HUMAN TRAFFICKING",
+        "Secondary": "COMMERCIAL SEX ACTS",
+        "Index": "I"
+    },
+    "1055": {
+        "Primary": "HUMAN TRAFFICKING",
+        "Secondary": "INVOLUNTARY SERVITUDE",
+        "Index": "I"
+    },
+    "1090": {
+        "Primary": "ARSON",
+        "Secondary": "ATTEMPT ARSON",
+        "Index": "I"
+    },
+    "1110": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "BOGUS CHECK",
+        "Index": "N"
+    },
+    "1120": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "FORGERY",
+        "Index": "N"
+    },
+    "1121": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "COUNTERFEITING DOCUMENT",
+        "Index": "N"
+    },
+    "1122": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "COUNTERFEIT CHECK",
+        "Index": "N"
+    },
+    "1130": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "FRAUD OR CONFIDENCE GAME",
+        "Index": "N"
+    },
+    "1135": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "INSURANCE FRAUD",
+        "Index": "N"
+    },
+    "1140": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "EMBEZZLEMENT",
+        "Index": "N"
+    },
+    "1150": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "CREDIT CARD FRAUD",
+        "Index": "N"
+    },
+    "1151": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "ILLEGAL POSSESSION CASH CARD",
+        "Index": "N"
+    },
+    "1152": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "ILLEGAL USE CASH CARD",
+        "Index": "N"
+    },
+    "1153": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "FINANCIAL IDENTITY THEFT OVER $ 300",
+        "Index": "N"
+    },
+    "1154": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "FINANCIAL IDENTITY THEFT $300 AND UNDER",
+        "Index": "N"
+    },
+    "1155": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "AGGRAVATED FINANCIAL IDENTITY THEFT",
+        "Index": "N"
+    },
+    "1156": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "ATTEMPT - FINANCIAL IDENTITY THEFT",
+        "Index": "N"
+    },
+    "1160": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "ALTER COINS",
+        "Index": "N"
+    },
+    "1170": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "IMPERSONATION",
+        "Index": "N"
+    },
+    "1185": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "DECEPTIVE COLLECTION PRACTICES",
+        "Index": "N"
+    },
+    "1195": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "FINANCIAL EXPLOITATION OF AN ELDERLY OR DISABLED PERSON",
+        "Index": "N"
+    },
+    "1200": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "STOLEN PROPERTY BUY / RECEIVE / POSSESS",
+        "Index": "N"
+    },
+    "1205": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "THEFT BY LESSEE, NON-MOTOR VEHICLE",
+        "Index": "N"
+    },
+    "1206": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "THEFT BY LESSEE, MOTOR VEHICLE",
+        "Index": "N"
+    },
+    "1210": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "THEFT OF LABOR / SERVICES",
+        "Index": "N"
+    },
+    "1220": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "THEFT OF LOST / MISLAID PROPERTY",
+        "Index": "N"
+    },
+    "1230": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "POSSESS KEYS OR DEVICE TO COIN MACHINE",
+        "Index": "N"
+    },
+    "1235": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "UNLAWFUL USE OF RECORDED SOUND",
+        "Index": "N"
+    },
+    "1240": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "UNLAWFUL USE OF A COMPUTER",
+        "Index": "N"
+    },
+    "1241": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "AGGRAVATED COMPUTER TAMPERING",
+        "Index": "N"
+    },
+    "1242": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "COMPUTER FRAUD",
+        "Index": "N"
+    },
+    "1245": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "PAY TV SERVICE OFFENSES",
+        "Index": "N"
+    },
+    "1255": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "UNIDENTIFIABLE RECORDING SOUND",
+        "Index": "N"
+    },
+    "1260": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "LIBRARY THEFT",
+        "Index": "N"
+    },
+    "1261": {
+        "Primary": "DECEPTIVE PRACTICE",
+        "Secondary": "UNAUTHORIZED VIDEOTAPING",
+        "Index": "N"
+    },
+    "1265": {
+        "Primary": "CRIMINAL DAMAGE",
+        "Secondary": "LIBRARY VANDALISM",
+        "Index": "N"
+    },
+    "1305": {
+        "Primary": "CRIMINAL DAMAGE",
+        "Secondary": "CRIMINAL DEFACEMENT",
+        "Index": "N"
+    },
+    "1310": {
+        "Primary": "CRIMINAL DAMAGE",
+        "Secondary": "TO PROPERTY",
+        "Index": "N"
+    },
+    "1320": {
+        "Primary": "CRIMINAL DAMAGE",
+        "Secondary": "TO VEHICLE",
+        "Index": "N"
+    },
+    "1330": {
+        "Primary": "CRIMINAL TRESPASS",
+        "Secondary": "TO LAND",
+        "Index": "N"
+    },
+    "1335": {
+        "Primary": "CRIMINAL TRESPASS",
+        "Secondary": "TO AIRPORT",
+        "Index": "N"
+    },
+    "1340": {
+        "Primary": "CRIMINAL DAMAGE",
+        "Secondary": "TO STATE SUPPORTED PROPERTY",
+        "Index": "N"
+    },
+    "1345": {
+        "Primary": "CRIMINAL DAMAGE",
+        "Secondary": "TO CITY OF CHICAGO PROPERTY",
+        "Index": "N"
+    },
+    "1350": {
+        "Primary": "CRIMINAL TRESPASS",
+        "Secondary": "TO STATE SUP LAND",
+        "Index": "N"
+    },
+    "1360": {
+        "Primary": "CRIMINAL TRESPASS",
+        "Secondary": "TO VEHICLE",
+        "Index": "N"
+    },
+    "1365": {
+        "Primary": "CRIMINAL TRESPASS",
+        "Secondary": "TO RESIDENCE",
+        "Index": "N"
+    },
+    "1370": {
+        "Primary": "CRIMINAL DAMAGE",
+        "Secondary": "TO FIRE FIGHT.APP.EQUIP",
+        "Index": "N"
+    },
+    "1375": {
+        "Primary": "CRIMINAL DAMAGE",
+        "Secondary": "INSTITUTIONAL VANDALISM",
+        "Index": "N"
+    },
+    "141A": {
+        "Primary": "WEAPONS VIOLATION",
+        "Secondary": "UNLAWFUL USE - HANDGUN",
+        "Index": "N"
+    },
+    "141B": {
+        "Primary": "WEAPONS VIOLATION",
+        "Secondary": "UNLAWFUL USE - OTHER FIREARM",
+        "Index": "N"
+    },
+    "141C": {
+        "Primary": "WEAPONS VIOLATION",
+        "Secondary": "UNLAWFUL USE - OTHER DANGEROUS WEAPON",
+        "Index": "N"
+    },
+    "142A": {
+        "Primary": "WEAPONS VIOLATION",
+        "Secondary": "UNLAWFUL SALE - HANDGUN",
+        "Index": "N"
+    },
+    "142B": {
+        "Primary": "WEAPONS VIOLATION",
+        "Secondary": "UNLAWFUL SALE - OTHER FIREARM",
+        "Index": "N"
+    },
+    "1435": {
+        "Primary": "WEAPONS VIOLATION",
+        "Secondary": "UNLAWFUL SALE - DELIVERY OF FIREARM AT SCHOOL",
+        "Index": "N"
+    },
+    "143A": {
+        "Primary": "WEAPONS VIOLATION",
+        "Secondary": "UNLAWFUL POSSESSION - HANDGUN",
+        "Index": "N"
+    },
+    "143B": {
+        "Primary": "WEAPONS VIOLATION",
+        "Secondary": "UNLAWFUL POSSESSION - OTHER FIREARM",
+        "Index": "N"
+    },
+    "143C": {
+        "Primary": "WEAPONS VIOLATION",
+        "Secondary": "UNLAWFUL POSSESSION - AMMUNITION",
+        "Index": "N"
+    },
+    "1440": {
+        "Primary": "WEAPONS VIOLATION",
+        "Secondary": "REGISTER OF SALES BY DEALER",
+        "Index": "N"
+    },
+    "1450": {
+        "Primary": "WEAPONS VIOLATION",
+        "Secondary": "DEFACE IDENTIFICATION MARKS OF FIREARM",
+        "Index": "N"
+    },
+    "1460": {
+        "Primary": "WEAPONS VIOLATION",
+        "Secondary": "POSSESS FIREARM / AMMUNITION - NO FOID CARD",
+        "Index": "N"
+    },
+    "1475": {
+        "Primary": "WEAPONS VIOLATION",
+        "Secondary": "SALE OF METAL PIERCING BULLETS",
+        "Index": "N"
+    },
+    "1476": {
+        "Primary": "WEAPONS VIOLATION",
+        "Secondary": "USE OF METAL PIERCING BULLETS",
+        "Index": "N"
+    },
+    "1477": {
+        "Primary": "WEAPONS VIOLATION",
+        "Secondary": "RECKLESS FIREARM DISCHARGE",
+        "Index": "N"
+    },
+    "1478": {
+        "Primary": "CONCEALED CARRY LICENSE VIOLATION",
+        "Secondary": "PROHIBITED PLACES",
+        "Index": "N"
+    },
+    "1479": {
+        "Primary": "CONCEALED CARRY LICENSE VIOLATION",
+        "Secondary": "ARMED WHILE UNDER THE INFLUENCE",
+        "Index": "N"
+    },
+    "1480": {
+        "Primary": "CONCEALED CARRY LICENSE VIOLATION",
+        "Secondary": "OTHER",
+        "Index": "N"
+    },
+    "1481": {
+        "Primary": "NON-CRIMINAL",
+        "Secondary": "CONCEALED CARRY LICENSE REVOCATION",
+        "Index": "N"
+    },
+    "1505": {
+        "Primary": "PROSTITUTION",
+        "Secondary": "CALL OPERATION",
+        "Index": "N"
+    },
+    "1506": {
+        "Primary": "PROSTITUTION",
+        "Secondary": "SOLICIT ON PUBLIC WAY",
+        "Index": "N"
+    },
+    "1507": {
+        "Primary": "PROSTITUTION",
+        "Secondary": "SOLICIT OFF PUBLIC WAY",
+        "Index": "N"
+    },
+    "1510": {
+        "Primary": "PROSTITUTION",
+        "Secondary": "CAB OPERATION",
+        "Index": "N"
+    },
+    "1511": {
+        "Primary": "PROSTITUTION",
+        "Secondary": "IN TAVERN",
+        "Index": "N"
+    },
+    "1512": {
+        "Primary": "PROSTITUTION",
+        "Secondary": "SOLICITING FOR A PROSTITUTE",
+        "Index": "N"
+    },
+    "1513": {
+        "Primary": "PROSTITUTION",
+        "Secondary": "SOLICITING FOR BUSINESS",
+        "Index": "N"
+    },
+    "1515": {
+        "Primary": "PROSTITUTION",
+        "Secondary": "PANDERING",
+        "Index": "N"
+    },
+    "1520": {
+        "Primary": "PROSTITUTION",
+        "Secondary": "KEEPING PLACE OF PROSTITUTION",
+        "Index": "N"
+    },
+    "1521": {
+        "Primary": "PROSTITUTION",
+        "Secondary": "KEEPING PLACE OF JUVENILE PROSTITUTION",
+        "Index": "N"
+    },
+    "1525": {
+        "Primary": "PROSTITUTION",
+        "Secondary": "PATRONIZING A PROSTITUTE",
+        "Index": "N"
+    },
+    "1526": {
+        "Primary": "PROSTITUTION",
+        "Secondary": "PATRONIZING A JUVENILE PROSTITUTE",
+        "Index": "N"
+    },
+    "1530": {
+        "Primary": "PROSTITUTION",
+        "Secondary": "PIMPING",
+        "Index": "N"
+    },
+    "1531": {
+        "Primary": "PROSTITUTION",
+        "Secondary": "JUVENILE PIMPING",
+        "Index": "N"
+    },
+    "1535": {
+        "Primary": "OBSCENITY",
+        "Secondary": "OBSCENITY",
+        "Index": "N"
+    },
+    "1536": {
+        "Primary": "PUBLIC INDECENCY",
+        "Secondary": "LICENSED PREMISE",
+        "Index": "N"
+    },
+    "1537": {
+        "Primary": "OFFENSE INVOLVING CHILDREN",
+        "Secondary": "POSSESSION OF PORNOGRAPHIC PRINT",
+        "Index": "N"
+    },
+    "1540": {
+        "Primary": "OBSCENITY",
+        "Secondary": "OBSCENE MATTER",
+        "Index": "N"
+    },
+    "1541": {
+        "Primary": "OBSCENITY",
+        "Secondary": "SALE / DISTRIBUTE OBSCENE MATERIAL TO MINOR",
+        "Index": "N"
+    },
+    "1542": {
+        "Primary": "OBSCENITY",
+        "Secondary": "SALE OF OBSCENE MATERIALS",
+        "Index": "N"
+    },
+    "1544": {
+        "Primary": "SEX OFFENSE",
+        "Secondary": "SEXUAL EXPLOITATION OF A CHILD",
+        "Index": "N"
+    },
+    "1549": {
+        "Primary": "PROSTITUTION",
+        "Secondary": "OTHER PROSTITUTION OFFENSE",
+        "Index": "N"
+    },
+    "1562": {
+        "Primary": "SEX OFFENSE",
+        "Secondary": "AGGRAVATED CRIMINAL SEXUAL ABUSE",
+        "Index": "N"
+    },
+    "1563": {
+        "Primary": "SEX OFFENSE",
+        "Secondary": "CRIMINAL SEXUAL ABUSE",
+        "Index": "N"
+    },
+    "1564": {
+        "Primary": "SEX OFFENSE",
+        "Secondary": "CRIMINAL TRANSMISSION OF HIV",
+        "Index": "N"
+    },
+    "1565": {
+        "Primary": "SEX OFFENSE",
+        "Secondary": "INDECENT SOLICITATION OF A CHILD",
+        "Index": "N"
+    },
+    "1566": {
+        "Primary": "SEX OFFENSE",
+        "Secondary": "INDECENT SOLICITATION OF AN ADULT",
+        "Index": "N"
+    },
+    "1570": {
+        "Primary": "SEX OFFENSE",
+        "Secondary": "PUBLIC INDECENCY",
+        "Index": "N"
+    },
+    "1572": {
+        "Primary": "SEX OFFENSE",
+        "Secondary": "ADULTRY",
+        "Index": "N"
+    },
+    "1574": {
+        "Primary": "SEX OFFENSE",
+        "Secondary": "FORNICATION",
+        "Index": "N"
+    },
+    "1576": {
+        "Primary": "SEX OFFENSE",
+        "Secondary": "BIGAMY",
+        "Index": "N"
+    },
+    "1578": {
+        "Primary": "SEX OFFENSE",
+        "Secondary": "MARRYING A BIGAMIST",
+        "Index": "N"
+    },
+    "1580": {
+        "Primary": "SEX OFFENSE",
+        "Secondary": "SEXUAL RELATIONS IN FAMILY",
+        "Index": "N"
+    },
+    "1582": {
+        "Primary": "OFFENSE INVOLVING CHILDREN",
+        "Secondary": "CHILD PORNOGRAPHY",
+        "Index": "N"
+    },
+    "1585": {
+        "Primary": "SEX OFFENSE",
+        "Secondary": "OTHER",
+        "Index": "N"
+    },
+    "1590": {
+        "Primary": "SEX OFFENSE",
+        "Secondary": "ATTEMPT AGGRAVATED CRIMINAL SEXUAL ABUSE",
+        "Index": "N"
+    },
+    "1610": {
+        "Primary": "GAMBLING",
+        "Secondary": "BOOKMAKING / HORSES",
+        "Index": "N"
+    },
+    "1611": {
+        "Primary": "GAMBLING",
+        "Secondary": "BOOKMAKING / SPORTS",
+        "Index": "N"
+    },
+    "1620": {
+        "Primary": "GAMBLING",
+        "Secondary": "BOLITA OR BOLI PUL / OFFICE",
+        "Index": "N"
+    },
+    "1621": {
+        "Primary": "GAMBLING",
+        "Secondary": "BOLITA OR BOLI PUL / RUNNER",
+        "Index": "N"
+    },
+    "1622": {
+        "Primary": "GAMBLING",
+        "Secondary": "BOLITA OR BOLI PUL / WRITER",
+        "Index": "N"
+    },
+    "1623": {
+        "Primary": "GAMBLING",
+        "Secondary": "BOLITA OR BOLI PUL / STATION",
+        "Index": "N"
+    },
+    "1624": {
+        "Primary": "GAMBLING",
+        "Secondary": "LOTTERY / PARI-MUTUEL",
+        "Index": "N"
+    },
+    "1625": {
+        "Primary": "GAMBLING",
+        "Secondary": "NATIONAL LOTTERY",
+        "Index": "N"
+    },
+    "1626": {
+        "Primary": "GAMBLING",
+        "Secondary": "ILLEGAL ILLINOIS LOTTERY",
+        "Index": "N"
+    },
+    "1627": {
+        "Primary": "GAMBLING",
+        "Secondary": "LOTTERY / OTHER",
+        "Index": "N"
+    },
+    "1630": {
+        "Primary": "GAMBLING",
+        "Secondary": "WIREROOM / HORSES",
+        "Index": "N"
+    },
+    "1631": {
+        "Primary": "GAMBLING",
+        "Secondary": "WIREROOM / SPORTS",
+        "Index": "N"
+    },
+    "1632": {
+        "Primary": "GAMBLING",
+        "Secondary": "WIREROOM / NUMBERS",
+        "Index": "N"
+    },
+    "1633": {
+        "Primary": "GAMBLING",
+        "Secondary": "SPORTS TAMPERING",
+        "Index": "N"
+    },
+    "1640": {
+        "Primary": "GAMBLING",
+        "Secondary": "REGISTER FEDERAL GAMBLING STAMP",
+        "Index": "N"
+    },
+    "1650": {
+        "Primary": "GAMBLING",
+        "Secondary": "VIOLATION OF CHARITABLE GAME ACT",
+        "Index": "N"
+    },
+    "1651": {
+        "Primary": "GAMBLING",
+        "Secondary": "GAME/CARDS",
+        "Index": "N"
+    },
+    "1661": {
+        "Primary": "GAMBLING",
+        "Secondary": "GAME/DICE",
+        "Index": "N"
+    },
+    "1670": {
+        "Primary": "GAMBLING",
+        "Secondary": "GAME / AMUSEMENT DEVICE",
+        "Index": "N"
+    },
+    "1680": {
+        "Primary": "GAMBLING",
+        "Secondary": "OTHER",
+        "Index": "N"
+    },
+    "1681": {
+        "Primary": "GAMBLING",
+        "Secondary": "LOTTERY / PARLAY CARDS",
+        "Index": "N"
+    },
+    "1682": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "ANIMAL FIGHTING",
+        "Index": "N"
+    },
+    "1690": {
+        "Primary": "GAMBLING",
+        "Secondary": "POLICY / HOUSEBOOK",
+        "Index": "N"
+    },
+    "1691": {
+        "Primary": "GAMBLING",
+        "Secondary": "POLICY / STATION",
+        "Index": "N"
+    },
+    "1692": {
+        "Primary": "GAMBLING",
+        "Secondary": "POLICY / RUNNER",
+        "Index": "N"
+    },
+    "1693": {
+        "Primary": "GAMBLING",
+        "Secondary": "POLICY / TURN-IN",
+        "Index": "N"
+    },
+    "1694": {
+        "Primary": "GAMBLING",
+        "Secondary": "POLICY / OFFICE",
+        "Index": "N"
+    },
+    "1695": {
+        "Primary": "GAMBLING",
+        "Secondary": "POLICY / PRESS",
+        "Index": "N"
+    },
+    "1696": {
+        "Primary": "GAMBLING",
+        "Secondary": "POLICY / WHEEL",
+        "Index": "N"
+    },
+    "1697": {
+        "Primary": "GAMBLING",
+        "Secondary": "POLICY / OTHER",
+        "Index": "N"
+    },
+    "1710": {
+        "Primary": "OFFENSE INVOLVING CHILDREN",
+        "Secondary": "ENDANGERING LIFE / HEALTH OF CHILD",
+        "Index": "N"
+    },
+    "1715": {
+        "Primary": "OFFENSE INVOLVING CHILDREN",
+        "Secondary": "SALE OF TOBACCO PRODUCTS TO MINOR",
+        "Index": "N"
+    },
+    "1720": {
+        "Primary": "OFFENSE INVOLVING CHILDREN",
+        "Secondary": "CONTRIBUTE TO THE DELINQUENCY OF CHILD",
+        "Index": "N"
+    },
+    "1725": {
+        "Primary": "OFFENSE INVOLVING CHILDREN",
+        "Secondary": "CONTRIBUTE TO THE CRIMINAL DELINQUENCY OF CHILD",
+        "Index": "N"
+    },
+    "1750": {
+        "Primary": "OFFENSE INVOLVING CHILDREN",
+        "Secondary": "CHILD ABUSE",
+        "Index": "N"
+    },
+    "1751": {
+        "Primary": "OFFENSE INVOLVING CHILDREN",
+        "Secondary": "CRIMINAL SEXUAL ABUSE BY FAMILY MEMBER",
+        "Index": "N"
+    },
+    "1752": {
+        "Primary": "OFFENSE INVOLVING CHILDREN",
+        "Secondary": "AGGRAVATED CRIMINAL SEXUAL ABUSE BY FAMILY MEMBER",
+        "Index": "N"
+    },
+    "1753": {
+        "Primary": "OFFENSE INVOLVING CHILDREN",
+        "Secondary": "SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER",
+        "Index": "I"
+    },
+    "1754": {
+        "Primary": "OFFENSE INVOLVING CHILDREN",
+        "Secondary": "AGGRAVATED SEXUAL ASSAULT OF CHILD BY FAMILY MEMBER",
+        "Index": "I"
+    },
+    "1755": {
+        "Primary": "OFFENSE INVOLVING CHILDREN",
+        "Secondary": "CHILD ABANDONMENT",
+        "Index": "N"
+    },
+    "1775": {
+        "Primary": "OFFENSE INVOLVING CHILDREN",
+        "Secondary": "SALE OF TRAVEL TICKET TO MINOR",
+        "Index": "N"
+    },
+    "1780": {
+        "Primary": "OFFENSE INVOLVING CHILDREN",
+        "Secondary": "OTHER OFFENSE",
+        "Index": "N"
+    },
+    "1790": {
+        "Primary": "OFFENSE INVOLVING CHILDREN",
+        "Secondary": "CHILD ABDUCTION",
+        "Index": "N"
+    },
+    "1791": {
+        "Primary": "OFFENSE INVOLVING CHILDREN",
+        "Secondary": "HARBOR RUNAWAY",
+        "Index": "N"
+    },
+    "1792": {
+        "Primary": "KIDNAPPING",
+        "Secondary": "CHILD ABDUCTION / STRANGER",
+        "Index": "N"
+    },
+    "1811": {
+        "Primary": "NARCOTICS",
+        "Secondary": "POSSESS - CANNABIS 30 GRAMS OR LESS",
+        "Index": "N"
+    },
+    "1812": {
+        "Primary": "NARCOTICS",
+        "Secondary": "POSSESS - CANNABIS MORE THAN 30 GRAMS",
+        "Index": "N"
+    },
+    "1821": {
+        "Primary": "NARCOTICS",
+        "Secondary": "MANUFACTURE / DELIVER - CANNABIS 10 GRAMS OR LESS",
+        "Index": "N"
+    },
+    "1822": {
+        "Primary": "NARCOTICS",
+        "Secondary": "MANUFACTURE / DELIVER - CANNABIS OVER 10 GRAMS",
+        "Index": "N"
+    },
+    "1840": {
+        "Primary": "NARCOTICS",
+        "Secondary": "DELIVER CANNABIS TO PERSON UNDER 18",
+        "Index": "N"
+    },
+    "1850": {
+        "Primary": "NARCOTICS",
+        "Secondary": "CANNABIS PLANT",
+        "Index": "N"
+    },
+    "1860": {
+        "Primary": "NARCOTICS",
+        "Secondary": "CALCULATED CANNABIS CONSPIRACY",
+        "Index": "N"
+    },
+    "1900": {
+        "Primary": "OTHER NARCOTIC VIOLATION",
+        "Secondary": "INTOXICATING COMPOUNDS",
+        "Index": "N"
+    },
+    "2010": {
+        "Primary": "NARCOTICS",
+        "Secondary": "MANUFACTURE / DELIVER - AMPHETAMINES",
+        "Index": "N"
+    },
+    "2011": {
+        "Primary": "NARCOTICS",
+        "Secondary": "MANUFACTURE / DELIVER - BARBITURATES",
+        "Index": "N"
+    },
+    "2012": {
+        "Primary": "NARCOTICS",
+        "Secondary": "MANUFACTURE / DELIVER - COCAINE",
+        "Index": "N"
+    },
+    "2013": {
+        "Primary": "NARCOTICS",
+        "Secondary": "MANUFACTURE / DELIVER - HEROIN (TAN / BROWN TAR)",
+        "Index": "N"
+    },
+    "2014": {
+        "Primary": "NARCOTICS",
+        "Secondary": "MANUFACTURE / DELIVER -  HEROIN (WHITE)",
+        "Index": "N"
+    },
+    "2015": {
+        "Primary": "NARCOTICS",
+        "Secondary": "MANUFACTURE / DELIVER - HALLUCINOGEN",
+        "Index": "N"
+    },
+    "2016": {
+        "Primary": "NARCOTICS",
+        "Secondary": "MANUFACTURE / DELIVER - PCP",
+        "Index": "N"
+    },
+    "2017": {
+        "Primary": "NARCOTICS",
+        "Secondary": "MANUFACTURE / DELIVER - CRACK",
+        "Index": "N"
+    },
+    "2018": {
+        "Primary": "NARCOTICS",
+        "Secondary": "MANUFACTURE / DELIVER - SYNTHETIC DRUGS",
+        "Index": "N"
+    },
+    "2019": {
+        "Primary": "NARCOTICS",
+        "Secondary": "MANUFACTURE / DELIVER - HEROIN (BLACK TAR)",
+        "Index": "N"
+    },
+    "2020": {
+        "Primary": "NARCOTICS",
+        "Secondary": "POSSESS - AMPHETAMINES",
+        "Index": "N"
+    },
+    "2021": {
+        "Primary": "NARCOTICS",
+        "Secondary": "POSSESS - BARBITURATES",
+        "Index": "N"
+    },
+    "2022": {
+        "Primary": "NARCOTICS",
+        "Secondary": "POSSESS - COCAINE",
+        "Index": "N"
+    },
+    "2023": {
+        "Primary": "NARCOTICS",
+        "Secondary": "POSSESS - HEROIN (TAN / BROWN TAR)",
+        "Index": "N"
+    },
+    "2024": {
+        "Primary": "NARCOTICS",
+        "Secondary": "POSSESS - HEROIN (WHITE)",
+        "Index": "N"
+    },
+    "2025": {
+        "Primary": "NARCOTICS",
+        "Secondary": "POSSESS - HALLUCINOGENS",
+        "Index": "N"
+    },
+    "2026": {
+        "Primary": "NARCOTICS",
+        "Secondary": "POSSESS - PCP",
+        "Index": "N"
+    },
+    "2027": {
+        "Primary": "NARCOTICS",
+        "Secondary": "POSSESS - CRACK",
+        "Index": "N"
+    },
+    "2028": {
+        "Primary": "NARCOTICS",
+        "Secondary": "POSSESS - SYNTHETIC DRUGS",
+        "Index": "N"
+    },
+    "2029": {
+        "Primary": "NARCOTICS",
+        "Secondary": "POSSESS - HEROIN (BLACK TAR)",
+        "Index": "N"
+    },
+    "2030": {
+        "Primary": "NARCOTICS",
+        "Secondary": "MANUFACTURE / DELIVER - LOOK-ALIKE DRUG",
+        "Index": "N"
+    },
+    "2031": {
+        "Primary": "NARCOTICS",
+        "Secondary": "POSSESS - METHAMPHETAMINE",
+        "Index": "N"
+    },
+    "2032": {
+        "Primary": "NARCOTICS",
+        "Secondary": "MANUFACTURE / DELIVER - METHAMPHETAMINE",
+        "Index": "N"
+    },
+    "2033": {
+        "Primary": "NARCOTICS",
+        "Secondary": "MANUFACTURE / DELIVER - SYNTHETIC MARIJUANA",
+        "Index": "N"
+    },
+    "2034": {
+        "Primary": "NARCOTICS",
+        "Secondary": "POSSESSION - SYNTHETIC MARIJUANA",
+        "Index": "N"
+    },
+    "2040": {
+        "Primary": "NARCOTICS",
+        "Secondary": "POSSESS - LOOK-ALIKE DRUGS",
+        "Index": "N"
+    },
+    "2050": {
+        "Primary": "NARCOTICS",
+        "Secondary": "CRIMINAL DRUG CONSPIRACY",
+        "Index": "N"
+    },
+    "2060": {
+        "Primary": "NARCOTICS",
+        "Secondary": "FAILURE TO REGISTER LICENSE - CONTROLLED SUBSTANCES",
+        "Index": "N"
+    },
+    "2070": {
+        "Primary": "NARCOTICS",
+        "Secondary": "DELIVER CONTROLLED SUBSTANCES TO PERSON UNDER 18",
+        "Index": "N"
+    },
+    "2080": {
+        "Primary": "NARCOTICS",
+        "Secondary": "FAILURE TO MAINTAIN RECORDS - CONTROLLED SUBSTANCES",
+        "Index": "N"
+    },
+    "2090": {
+        "Primary": "NARCOTICS",
+        "Secondary": "ALTER / FORGE PRESCRIPTION",
+        "Index": "N"
+    },
+    "2091": {
+        "Primary": "NARCOTICS",
+        "Secondary": "FORFEIT PROPERTY",
+        "Index": "N"
+    },
+    "2092": {
+        "Primary": "NARCOTICS",
+        "Secondary": "SOLICIT NARCOTICS ON PUBLIC WAY",
+        "Index": "N"
+    },
+    "2093": {
+        "Primary": "NARCOTICS",
+        "Secondary": "FOUND SUSPECT NARCOTICS",
+        "Index": "N"
+    },
+    "2094": {
+        "Primary": "NARCOTICS",
+        "Secondary": "ATTEMPT POSSESSION CANNABIS",
+        "Index": "N"
+    },
+    "2095": {
+        "Primary": "NARCOTICS",
+        "Secondary": "ATTEMPT POSSESSION NARCOTICS",
+        "Index": "N"
+    },
+    "2110": {
+        "Primary": "NARCOTICS",
+        "Secondary": "POSSESS - HYPODERMIC NEEDLE",
+        "Index": "N"
+    },
+    "2111": {
+        "Primary": "NARCOTICS",
+        "Secondary": "SALE / DELIVER - HYPODERMIC NEEDLE",
+        "Index": "N"
+    },
+    "2120": {
+        "Primary": "NARCOTICS",
+        "Secondary": "FAILURE TO KEEP HYPODERMIC RECORDS",
+        "Index": "N"
+    },
+    "2160": {
+        "Primary": "NARCOTICS",
+        "Secondary": "SALE / DELIVER - DRUG PARAPHERNALIA",
+        "Index": "N"
+    },
+    "2170": {
+        "Primary": "NARCOTICS",
+        "Secondary": "POSSESSION OF DRUG EQUIPMENT",
+        "Index": "N"
+    },
+    "2210": {
+        "Primary": "LIQUOR LAW VIOLATION",
+        "Secondary": "SELL / GIVE / DELIVER LIQUOR TO MINOR",
+        "Index": "N"
+    },
+    "2220": {
+        "Primary": "LIQUOR LAW VIOLATION",
+        "Secondary": "ILLEGAL POSSESSION BY MINOR",
+        "Index": "N"
+    },
+    "2230": {
+        "Primary": "LIQUOR LAW VIOLATION",
+        "Secondary": "ILLEGAL CONSUMPTION BY MINOR",
+        "Index": "N"
+    },
+    "2240": {
+        "Primary": "LIQUOR LAW VIOLATION",
+        "Secondary": "MINOR MISREPRESENT AGE",
+        "Index": "N"
+    },
+    "2250": {
+        "Primary": "LIQUOR LAW VIOLATION",
+        "Secondary": "LIQUOR LICENSE VIOLATION",
+        "Index": "N"
+    },
+    "2251": {
+        "Primary": "LIQUOR LAW VIOLATION",
+        "Secondary": "EMPLOY MINOR",
+        "Index": "N"
+    },
+    "2500": {
+        "Primary": "CRIMINAL ABORTION",
+        "Secondary": "CRIMINAL ABORTION",
+        "Index": "N"
+    },
+    "2820": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "TELEPHONE THREAT",
+        "Index": "N"
+    },
+    "2825": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "HARASSMENT BY TELEPHONE",
+        "Index": "N"
+    },
+    "2826": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "HARASSMENT BY ELECTRONIC MEANS",
+        "Index": "N"
+    },
+    "2830": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "OBSCENE TELEPHONE CALLS",
+        "Index": "N"
+    },
+    "2840": {
+        "Primary": "PUBLIC PEACE VIOLATION",
+        "Secondary": "FALSE FIRE ALARM",
+        "Index": "N"
+    },
+    "2850": {
+        "Primary": "PUBLIC PEACE VIOLATION",
+        "Secondary": "BOMB THREAT",
+        "Index": "N"
+    },
+    "2851": {
+        "Primary": "PUBLIC PEACE VIOLATION",
+        "Secondary": "ARSON THREAT",
+        "Index": "N"
+    },
+    "2860": {
+        "Primary": "PUBLIC PEACE VIOLATION",
+        "Secondary": "FALSE POLICE REPORT",
+        "Index": "N"
+    },
+    "2870": {
+        "Primary": "PUBLIC PEACE VIOLATION",
+        "Secondary": "PEEPING TOM",
+        "Index": "N"
+    },
+    "2890": {
+        "Primary": "PUBLIC PEACE VIOLATION",
+        "Secondary": "OTHER VIOLATION",
+        "Index": "N"
+    },
+    "2895": {
+        "Primary": "PUBLIC PEACE VIOLATION",
+        "Secondary": "INTERFERE WITH EMERGENCY EQUIPMENT",
+        "Index": "N"
+    },
+    "2900": {
+        "Primary": "WEAPONS VIOLATION",
+        "Secondary": "UNLAWFUL USE / SALE OF AIR RIFLE",
+        "Index": "N"
+    },
+    "3000": {
+        "Primary": "PUBLIC PEACE VIOLATION",
+        "Secondary": "SELL / ADVERTISE FIREWORKS",
+        "Index": "N"
+    },
+    "3100": {
+        "Primary": "PUBLIC PEACE VIOLATION",
+        "Secondary": "MOB ACTION",
+        "Index": "N"
+    },
+    "3200": {
+        "Primary": "PUBLIC PEACE VIOLATION",
+        "Secondary": "ARMED VIOLENCE",
+        "Index": "N"
+    },
+    "3300": {
+        "Primary": "PUBLIC PEACE VIOLATION",
+        "Secondary": "PUBLIC DEMONSTRATION",
+        "Index": "N"
+    },
+    "3400": {
+        "Primary": "PUBLIC PEACE VIOLATION",
+        "Secondary": "LOOTING",
+        "Index": "N"
+    },
+    "3610": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "INTERFERE WITH HIGHER EDUCATION",
+        "Index": "N"
+    },
+    "3710": {
+        "Primary": "INTERFERENCE WITH PUBLIC OFFICER",
+        "Secondary": "RESIST / OBSTRUCT / DISARM OFFICER",
+        "Index": "N"
+    },
+    "3720": {
+        "Primary": "INTERFERENCE WITH PUBLIC OFFICER",
+        "Secondary": "REFUSING TO AID AN OFFICER",
+        "Index": "N"
+    },
+    "3730": {
+        "Primary": "INTERFERENCE WITH PUBLIC OFFICER",
+        "Secondary": "OBSTRUCTING JUSTICE",
+        "Index": "N"
+    },
+    "3731": {
+        "Primary": "INTERFERENCE WITH PUBLIC OFFICER",
+        "Secondary": "OBSTRUCTING IDENTIFICATION",
+        "Index": "N"
+    },
+    "3740": {
+        "Primary": "INTERFERENCE WITH PUBLIC OFFICER",
+        "Secondary": "CONCEALING / AIDING A FUGITIVE",
+        "Index": "N"
+    },
+    "3750": {
+        "Primary": "INTERFERENCE WITH PUBLIC OFFICER",
+        "Secondary": "ESCAPE",
+        "Index": "N"
+    },
+    "3751": {
+        "Primary": "INTERFERENCE WITH PUBLIC OFFICER",
+        "Secondary": "AIDING ARRESTEE ESCAPE",
+        "Index": "N"
+    },
+    "3760": {
+        "Primary": "INTERFERENCE WITH PUBLIC OFFICER",
+        "Secondary": "OBSTRUCTING SERVICE",
+        "Index": "N"
+    },
+    "3770": {
+        "Primary": "INTERFERENCE WITH PUBLIC OFFICER",
+        "Secondary": "CONTRABAND IN PRISON",
+        "Index": "N"
+    },
+    "3800": {
+        "Primary": "INTERFERENCE WITH PUBLIC OFFICER",
+        "Secondary": "INTERFERENCE JUDICIAL PROCESS",
+        "Index": "N"
+    },
+    "3910": {
+        "Primary": "INTERFERENCE WITH PUBLIC OFFICER",
+        "Secondary": "BRIBERY",
+        "Index": "N"
+    },
+    "3920": {
+        "Primary": "INTERFERENCE WITH PUBLIC OFFICER",
+        "Secondary": "OFFICIAL MISCONDUCT",
+        "Index": "N"
+    },
+    "3960": {
+        "Primary": "INTIMIDATION",
+        "Secondary": "INTIMIDATION",
+        "Index": "N"
+    },
+    "3966": {
+        "Primary": "INTIMIDATION",
+        "Secondary": "EDUCATIONAL INTIMIDAITON",
+        "Index": "N"
+    },
+    "3970": {
+        "Primary": "INTIMIDATION",
+        "Secondary": "EXTORTION",
+        "Index": "N"
+    },
+    "3975": {
+        "Primary": "INTIMIDATION",
+        "Secondary": "COMPELLING ORGANIZATION MEMBERSHIP",
+        "Index": "N"
+    },
+    "3980": {
+        "Primary": "INTIMIDATION",
+        "Secondary": "COMPELLING CONFESSION",
+        "Index": "N"
+    },
+    "4210": {
+        "Primary": "KIDNAPPING",
+        "Secondary": "KIDNAPPING",
+        "Index": "N"
+    },
+    "4220": {
+        "Primary": "KIDNAPPING",
+        "Secondary": "AGGRAVATED",
+        "Index": "N"
+    },
+    "4230": {
+        "Primary": "KIDNAPPING",
+        "Secondary": "UNLAWFUL RESTRAINT",
+        "Index": "N"
+    },
+    "4240": {
+        "Primary": "KIDNAPPING",
+        "Secondary": "FORCIBLE DETENTION",
+        "Index": "N"
+    },
+    "4255": {
+        "Primary": "KIDNAPPING",
+        "Secondary": "UNLAWFUL VISITATION INTERFERENCE",
+        "Index": "N"
+    },
+    "4310": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "POSSESSION OF BURGLARY TOOLS",
+        "Index": "N"
+    },
+    "4386": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "VIOLATION OF CIVIL NO CONTACT ORDER",
+        "Index": "N"
+    },
+    "4387": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "VIOLATE ORDER OF PROTECTION",
+        "Index": "N"
+    },
+    "4388": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "VIOLATION OF BAIL BOND - DOMESTIC VIOLENCE",
+        "Index": "N"
+    },
+    "4389": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "VIOLATION GPS MONITORING DEVICE",
+        "Index": "N"
+    },
+    "4410": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "DESTRUCTION OF DRAFT CARD",
+        "Index": "N"
+    },
+    "4420": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "CRIMINAL FORTIFICATION",
+        "Index": "N"
+    },
+    "4510": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "PROBATION VIOLATION",
+        "Index": "N"
+    },
+    "4625": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "PAROLE VIOLATION",
+        "Index": "N"
+    },
+    "4650": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "SEX OFFENDER - FAIL TO REGISTER",
+        "Index": "N"
+    },
+    "4651": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "SEX OFFENDER - FAIL TO REGISTER NEW ADDRESS",
+        "Index": "N"
+    },
+    "4652": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "SEX OFFENDER - PROHIBITED ZONE",
+        "Index": "N"
+    },
+    "4740": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "UNLAWFUL USE OF BODY ARMOR",
+        "Index": "N"
+    },
+    "4750": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "DISCLOSE DOMESTIC VIOLENCE VICTIM LOCATION",
+        "Index": "N"
+    },
+    "4800": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "MONEY LAUNDERING",
+        "Index": "N"
+    },
+    "4810": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "COMPOUNDING A CRIME",
+        "Index": "N"
+    },
+    "4860": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "BOARD PLANE WITH WEAPON",
+        "Index": "N"
+    },
+    "5000": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "OTHER CRIME AGAINST PERSON",
+        "Index": "N"
+    },
+    "5001": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "OTHER CRIME INVOLVING PROPERTY",
+        "Index": "N"
+    },
+    "5002": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "OTHER VEHICLE OFFENSE",
+        "Index": "N"
+    },
+    "5003": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "OTHER ARSON / EXPLOSIVE INCIDENT",
+        "Index": "N"
+    },
+    "5004": {
+        "Primary": "SEX OFFENSE",
+        "Secondary": "ATTEMPT CRIMINAL SEXUAL ABUSE",
+        "Index": "N"
+    },
+    "5005": {
+        "Primary": "SEX OFFENSE",
+        "Secondary": "ATTEMPT AGGRAVATED CRIMINAL SEXUAL ABUSE",
+        "Index": "N"
+    },
+    "5007": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "OTHER WEAPONS VIOLATION",
+        "Index": "N"
+    },
+    "5008": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "FIREARM REGISTRATION VIOLATION",
+        "Index": "N"
+    },
+    "5009": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "VIOLATION OF SMOKING BAN",
+        "Index": "N"
+    },
+    "500E": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "EAVESDROPPING",
+        "Index": "N"
+    },
+    "500N": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "ABUSE / NEGLECT - CARE FACILITY",
+        "Index": "N"
+    },
+    "5011": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "LICENSE VIOLATION",
+        "Index": "N"
+    },
+    "5013": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "VIOLATION OF SUMMARY CLOSURE",
+        "Index": "N"
+    },
+    "501A": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "ANIMAL ABUSE / NEGLECT",
+        "Index": "N"
+    },
+    "501H": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "HAZARDOUS MATERIALS VIOLATION",
+        "Index": "N"
+    },
+    "502P": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "FALSE / STOLEN / ALTERED TRP",
+        "Index": "N"
+    },
+    "502R": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "VEHICLE TITLE / REGISTRATION OFFENSE",
+        "Index": "N"
+    },
+    "502T": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "TAMPER WITH MOTOR VEHICLE",
+        "Index": "N"
+    },
+    "5110": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "GUN OFFENDER - DUTY TO REGISTER",
+        "Index": "N"
+    },
+    "5111": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "GUN OFFENDER - ANNUAL REGISTRATION",
+        "Index": "N"
+    },
+    "5112": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "GUN OFFENDER - DUTY TO REPORT CHANGE OF INFORMATION",
+        "Index": "N"
+    },
+    "5120": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "ARSONIST - DUTY TO REGISTER",
+        "Index": "N"
+    },
+    "5121": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "ARSONIST - ANNUAL REGISTRATION",
+        "Index": "N"
+    },
+    "5122": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "ARSONIST - FAIL TO REGISTER NEW ADDRESS",
+        "Index": "N"
+    },
+    "5130": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "VIOLENT OFFENDER - DUTY TO REGISTER",
+        "Index": "N"
+    },
+    "5131": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "VIOLENT OFFENDER - ANNUAL REGISTRATION",
+        "Index": "N"
+    },
+    "5132": {
+        "Primary": "OTHER OFFENSE",
+        "Secondary": "VIOLENT OFFENDER - FAIL TO REGISTER NEW ADDRESS",
+        "Index": "N"
+    }
+}
