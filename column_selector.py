@@ -32,6 +32,20 @@ df['Time'] = df['DateTime'].dt.time
 df['Hour'] = df['DateTime'].dt.hour
 df['Month'] = df['DateTime'].dt.month
 
+# === Season Classification ===
+def classify_season(month):
+    if month in [12, 1, 2]:
+        return 'Winter'
+    elif month in [3, 4, 5]:
+        return 'Spring'
+    elif month in [6, 7, 8]:
+        return 'Summer'
+    elif month in [9, 10, 11]:
+        return 'Fall'
+    return None
+
+df['Season'] = df['Month'].apply(classify_season)
+
 # === Extract Latitude and Longitude from Location column ===
 df[['Latitude', 'Longitude']] = df['Location'].str.extract(r'\((.*), (.*)\)').astype(float)
 
@@ -58,11 +72,11 @@ df = df.dropna(subset=['IUCR', 'District', 'DateTime', 'Latitude', 'Longitude'])
 # === Drop raw Location string and DateTime helper column ===
 df = df.drop(columns=['Location', 'DateTime'])
 
-# === Final column order ===
+# === Final column order including Season ===
 df = df[['IUCR', 'Crime_Type', 'Crime_Subtype', 'is_violent',
          'District', 'Latitude', 'Longitude', 'Location Description',
-         'Date', 'Time', 'Hour', 'AM_PM', 'Month']]
+         'Date', 'Time', 'Hour', 'AM_PM', 'Month', 'Season']]
 
 # === Save Cleaned CSV ===
 df.to_csv(output_file, index=False)
-print(f"✅ Final cleaned dataset with violence classification saved to: {output_file} ({len(df)} rows, {len(df.columns)} columns)")
+print(f"✅ Final cleaned dataset with season classification saved to: {output_file} ({len(df)} rows, {len(df.columns)} columns)")

@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # === Configuration ===
-input_file = "Chicago_cleaned_output/Chicago_filtered_data.csv"
+input_file = "Chicago_cleaned_output/Chicago_cleaned.csv"
 output_folder = "Chicago_cleaned_output"
 sample_output = os.path.join(output_folder, "Chicago_sample_100k.csv")
 
