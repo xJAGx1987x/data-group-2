@@ -1,7 +1,7 @@
 import pandas as pd
 from mlxtend.frequent_patterns import apriori, association_rules
 
-data_file = r"C:\Users\trend\PycharmProjects\data-group-2\Chicago_cleaned_output\Chicago_cleaned.csv"
+data_file = r"Chicago_cleaned_output\Chicago_sample_100k.csv"
 df = pd.read_csv(data_file)
 
 # === Select Features ===
@@ -18,10 +18,10 @@ df['Location Description'] = df['Location Description'].where(df['Location Descr
 df_encoded = pd.get_dummies(df)
 
 # === Find Frequent Itemsets ===
-frequent_itemsets = apriori(df_encoded, min_support=0.01, use_colnames=True)
+frequent_itemsets = apriori(df_encoded, min_support=0.001, use_colnames=True)
 
 # === Generate Association Rules ===
-rules = association_rules(frequent_itemsets, metric="confidence", min_threshold=0.6)
+rules = association_rules(frequent_itemsets, metric="confidence", min_threshold=0.7)
 
 # === Sort Rules ===
 rules = rules.sort_values(by="lift", ascending=False)
