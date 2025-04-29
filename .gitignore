@@ -26,3 +26,6 @@ Chicago_cleaned_output/
 # System files
 .DS_Store
 Thumbs.db
+
+classification/output/
+*.html

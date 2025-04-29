@@ -76,8 +76,8 @@ def process_chunk(chunk, results, index):
     chunk['Crime_Type'] = chunk['IUCR'].apply(get_primary)
     chunk['Crime_Subtype'] = chunk['IUCR'].apply(get_secondary)
 
-    # Drop rows with missing critical values
-    chunk = chunk.dropna(subset=['IUCR', 'District', 'DateTime', 'Latitude', 'Longitude'])
+    # === IMPORTANT: Drop rows with missing critical values *including is_violent*
+    chunk = chunk.dropna(subset=['IUCR', 'District', 'DateTime', 'Latitude', 'Longitude', 'is_violent'])
 
     # Drop unnecessary columns
     chunk = chunk.drop(columns=['Location', 'DateTime'])
@@ -88,6 +88,7 @@ def process_chunk(chunk, results, index):
                    'Date', 'Time', 'Hour', 'AM_PM', 'Month', 'Season']]
 
     results[index] = chunk
+
 
 # === Load Only Needed Columns ===
 columns_to_keep = ["IUCR", "Date", "District", "Location Description", "Location"]
