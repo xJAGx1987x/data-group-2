@@ -23,8 +23,16 @@ frequent_itemsets = apriori(df_encoded, min_support=0.01, use_colnames=True)
 # === Generate Association Rules ===
 rules = association_rules(frequent_itemsets, metric="confidence", min_threshold=0.6)
 
-# === Sort Rules
+# === Sort Rules ===
 rules = rules.sort_values(by="lift", ascending=False)
 
-# === Output Results
-print(rules[['antecedents', 'consequents', 'support', 'confidence', 'lift']])
+# === Output Results ===
+for idx, rule in rules.iterrows():
+    antecedents = ', '.join([str(a) for a in rule['antecedents']])
+    consequents = ', '.join([str(c) for c in rule['consequents']])
+    support = round(rule['support'], 3)
+    confidence = round(rule['confidence'], 3)
+    lift = round(rule['lift'], 3)
+    
+    print(f"If [{antecedents}], then [{consequents}] (support: {support}, confidence: {confidence}, lift: {lift})")
+
