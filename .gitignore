@@ -27,5 +27,5 @@ Chicago_cleaned_output/
 .DS_Store
 Thumbs.db
 
-classification/output/
+*/output/
 *.html

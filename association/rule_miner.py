@@ -1,7 +1,7 @@
 import pandas as pd
 from mlxtend.frequent_patterns import apriori, association_rules
 
-data_file = r"Chicago_cleaned_output\Chicago_sample_100k.csv"
+data_file = r"Chicago_cleaned_output\Chicago_test.csv"
 df = pd.read_csv(data_file)
 
 # === Select Features ===
