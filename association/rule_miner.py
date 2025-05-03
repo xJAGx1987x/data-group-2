@@ -3,7 +3,7 @@ from mlxtend.frequent_patterns import apriori, association_rules
 from mlxtend.preprocessing import TransactionEncoder
 
 # === Load and sample data ===
-df = pd.read_csv("Chicago_cleaned_output/Chicago_encoded.csv", nrows=100_000)
+df = pd.read_csv("Chicago_cleaned_output/Chicago_encoded.csv", nrows=500_000)
 
 # === Use top features only ===
 top_features = ['Beat', 'Hour', 'Location Description', 'Month', 'Ward', 'District', 'Season', 'AM_PM', 'is_violent']

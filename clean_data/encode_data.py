@@ -3,9 +3,9 @@ from sklearn.preprocessing import LabelEncoder
 import os
 
 # === Configuration ===
-input_file = r"C:\Users\trend\PycharmProjects\data-group-2\Chicago_cleaned_output\Chicago_cleaned.csv"
+input_file = r"Chicago_cleaned_output\Chicago_balanced.csv"
 output_folder = r"C:\Users\trend\PycharmProjects\data-group-2\Chicago_cleaned_output"
-output_file = os.path.join(output_folder, "Chicago_encoded.csv")
+output_file = os.path.join(output_folder, "Chicago_balanced_encoded.csv")
 
 # === Load Data ===
 print("📥 Loading cleaned dataset...")
