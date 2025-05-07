@@ -27,7 +27,8 @@ Chicago_cleaned_output/
 .DS_Store
 Thumbs.db
 
-*/output/
+**/output/
 *.html
 
 /tests/
+*.pkl

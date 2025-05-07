@@ -65,6 +65,7 @@ plt.show()
 # === ROC Curve ===
 fpr, tpr, thresholds = roc_curve(y_test, rf_probs)
 roc_auc = auc(fpr, tpr)
+print(f"AUC: {roc_auc:.4f}")
 
 plt.figure(figsize=(6, 4))
 plt.plot(fpr, tpr, label=f"ROC Curve (AUC = {roc_auc:.4f})")

@@ -24,9 +24,18 @@ scaler = StandardScaler()
 X_train = scaler.fit_transform(X_train)
 X_test = scaler.transform(X_test)
 
-# === Train MLP ===
-clf = MLPClassifier(hidden_layer_sizes=(128, 64), max_iter=50, alpha=0.0005,
-                    solver='adam', random_state=42, verbose=True)
+# === Train MLP with early stopping ===
+clf = MLPClassifier(
+    hidden_layer_sizes=(32,),
+    max_iter=200,
+    alpha=0.001,  # Increased regularization
+    solver='adam',
+    random_state=42,
+    verbose=True,
+    early_stopping=True,
+    n_iter_no_change=10,
+    validation_fraction=0.1
+)
 clf.fit(X_train, y_train)
 
 # === Evaluate ===
@@ -40,7 +49,9 @@ print("AUC:", roc_auc_score(y_test, y_probs))
 # === Confusion matrix
 cm = confusion_matrix(y_test, y_pred)
 plt.figure(figsize=(6, 4))
-sns.heatmap(cm, annot=True, fmt='d', cmap='Blues', xticklabels=["Non-Violent", "Violent"], yticklabels=["Non-Violent", "Violent"])
+sns.heatmap(cm, annot=True, fmt='d', cmap='Blues',
+            xticklabels=["Non-Violent", "Violent"],
+            yticklabels=["Non-Violent", "Violent"])
 plt.title("Confusion Matrix")
 plt.xlabel("Predicted")
 plt.ylabel("Actual")
